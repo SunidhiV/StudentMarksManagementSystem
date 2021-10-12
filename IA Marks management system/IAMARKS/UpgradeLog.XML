@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IAMARKS">
+</Property><Property Name="Solution File" Value="E:\IA Marks management system\IAMARKS\IAMARKS.sln">
+</Property><Property Name="User Options File" Value="E:\IA Marks management system\IAMARKS\IAMARKS.suo">
+</Property><Property Name="Date" Value="01 December 2020">
+</Property><Property Name="Time" Value="12:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IAMARKS.sln" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IAMARKS.suo" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS.suo">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\IAMARKS.vbproj" Description="Project file successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\IAMARKS.vbproj">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\facultyhomepage.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\facultyhomepage.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\facultyhomepage.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\facultyhomepage.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Form1.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Form1.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Form1.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmchangepwd.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmchangepwd.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmchangepwd.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmchangepwd.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmcourse.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmcourse.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmcourse.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmcourse.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmdept.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmdept.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmdept.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmdept.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfaculty.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfaculty.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfaculty.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfaculty.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfiamarksentry.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfiamarksentry.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfiamarksentry.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfiamarksentry.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmindividualrpt.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmindividualrpt.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmindividualrpt.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmindividualrpt.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmoverallrpt.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmoverallrpt.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmoverallrpt.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmoverallrpt.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsem.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsem.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsem.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsem.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudchangepwd.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudchangepwd.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudchangepwd.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudchangepwd.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentdetails.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentdetails.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentdetails.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentdetails.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentmarks.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentmarks.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentmarks.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentmarks.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsub.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsub.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsub.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsub.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsubrpt.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsubrpt.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsubrpt.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsubrpt.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Homepage1.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Homepage1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Homepage1.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Homepage1.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\LoginForm1.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\LoginForm1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\LoginForm1.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\LoginForm1.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Application.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Student HomePage.Designer.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Student HomePage.Designer.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Student HomePage.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Student HomePage.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\TAMod.vb" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\TAMod.vb">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Application.myapp" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Settings.settings" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\body_bg.jpg" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\body_bg.jpg">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\body_bg1.jpg" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\body_bg1.jpg">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\_img09.JPG" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\_img09.JPG">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\img01.gif" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\img01.gif">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\mnu_bottomshadow.gif" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\mnu_bottomshadow.gif">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\BG1.png" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\BG1.png">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\11.png" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\11.png">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\report-card_a1a51376-4c22-11e7-88f6-6a3facb665a5.jpg" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\report-card_a1a51376-4c22-11e7-88f6-6a3facb665a5.jpg">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Resources\bgbar.gif" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Resources\bgbar.gif">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\facultyhomepage.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\facultyhomepage.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmchangepwd.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmchangepwd.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmcourse.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmcourse.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmdept.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmdept.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfaculty.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfaculty.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmfiamarksentry.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmfiamarksentry.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmindividualrpt.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmindividualrpt.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmoverallrpt.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmoverallrpt.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsem.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsem.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudchangepwd.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudchangepwd.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentdetails.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentdetails.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmstudentmarks.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmstudentmarks.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsub.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsub.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\frmsubrpt.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\frmsubrpt.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Homepage1.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Homepage1.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\LoginForm1.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\LoginForm1.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\My Project\Resources.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\Student HomePage.resx" Description="File successfully backed up as E:\IA Marks management system\IAMARKS\Backup\IAMARKS\Student HomePage.resx">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\IAMARKS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IAMARKS" Source="IAMARKS\IAMARKS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IAMARKS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IAMARKS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\IAMARKS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="IAMARKS" Source="IAMARKS\IAMARKS.vbproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>
